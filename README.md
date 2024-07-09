@@ -64,16 +64,16 @@ Have fun
   <summary>In Game</summary>
   <img src="https://github.com/KAH842/Eternal-KAH-CS2-Hacks/blob/main/Screenshot-2023-03-29-190515-min.webp"/>
 </details>
-<h1 align="center">Screenshots</h1>
+
 
 <details>
   <summary>In Game</summary>
   <img src="https://github.com/KAH842/Eternal-KAH-CS2-Hacks/blob/main/Screenshot-2023-03-29-190544-min.webp"/>
 </details>
-<h1 align="center">Screenshots</h1>
+
 
 <details>
   <summary>In Game</summary>
   <img src="https://github.com/KAH842/Eternal-KAH-CS2-Hacks/blob/main/image-min-min.webp"/>
 </details>
-<h1 align="center">Screenshots</h1>
+
